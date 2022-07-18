@@ -8,7 +8,7 @@ The scanned image will be displayed and saved in `./images` folder.
 
 ## Example
 #### Original Image
-![Original Image](./images/receipt_1.JPG)
+![Original Image](https://miro.medium.com/max/1400/0*LLNSXCo6ho6I3bTo.png)
 
 #### Edged Image using Gaussian Blur and Canny Edge Detection
 ![Edged Image using Gaussian Blur and Canny Edge Detection](./images/edgedImage.png)
