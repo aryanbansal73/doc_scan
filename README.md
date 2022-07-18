@@ -24,4 +24,4 @@ The scanned image will be displayed and saved in `./images` folder.
 
 #### Refrences
 [pyimagesearch](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
-[Medium] (https://medium.com/mlearning-ai/document-scanner-using-opencv-with-source-code-easiest-way-e0543e1f3a72)
+![Medium](https://medium.com/mlearning-ai/document-scanner-using-opencv-with-source-code-easiest-way-e0543e1f3a72)
