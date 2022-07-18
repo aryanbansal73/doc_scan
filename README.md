@@ -14,7 +14,7 @@ The scanned image will be displayed and saved in `./images` folder.
 ![Edged Image using Gaussian Blur and Canny Edge Detection](https://miro.medium.com/max/1400/0*BiMXrCDXtL8pL6Kx.png)
 
 #### Outlined Image
-![Outlined Image]([./images/outline.png](https://miro.medium.com/max/1400/0*ECgWJ7Cnj4LjQ6ry.png))
+![Outlined Image](https://miro.medium.com/max/1400/0*ECgWJ7Cnj4LjQ6ry.png)
 
 
 
